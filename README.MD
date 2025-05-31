@@ -19,7 +19,7 @@
 
 ## Стек технологий
 
-- Python 3.12
+- Python 3.11.9
 - Django 5.x
 - Django REST Framework
 - PostgreSQL 16
