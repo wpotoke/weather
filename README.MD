@@ -132,7 +132,6 @@ docker-compose exec web python manage.py test
 * Модель `CitySearch`
 * Рендеринг шаблонов
 * API-запросы (успешные, ошибочные, кэшированные)
-<<<<<<< HEAD
 * Обработка ошибок внешнего API
 
 ---
