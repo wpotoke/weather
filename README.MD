@@ -45,12 +45,11 @@ cd weather
 cp .env.example .env
 ```
 
-3. **Сгенерируйте SECRET\_KEY (если необходимо):**
+3. **Сгенерируйте SECRET\_KEY (если необходимо) и вставьте его в файл .venv:**
 
 ```bash
 python -c 'from django.core.management.utils import get_random_secret_key; print(get_random_secret_key())'
 ```
-- вставьте его в .env
 
 4. **Создайте пользователя и базу данных, также передайте права на пользование и укажите кодировку**
 
