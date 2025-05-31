@@ -1,6 +1,6 @@
 # 🌦 Weather — Django-приложение прогноза погоды с кэшированием и API
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11.9-blue?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-5.0-green?logo=django)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-16-blue?logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-cache-red?logo=redis)
