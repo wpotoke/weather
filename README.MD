@@ -36,7 +36,7 @@
 ## 📦 Установка через Docker
 
 ```bash
-git clone https://github.com/yourname/weather.git
+git clone https://github.com/wpotoke/weather.git
 cd app
 docker-compose up --build
 ````
