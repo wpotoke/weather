@@ -1,0 +1,376 @@
+[
+    {
+        "model": "weather.citysearch",
+        "pk": 3,
+        "fields": {
+            "city": "moscow",
+            "timestamp": "2025-05-29T16:57:13.329Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 4,
+        "fields": {
+            "city": "moscow",
+            "timestamp": "2025-05-29T16:58:36.990Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 5,
+        "fields": {
+            "city": "москва",
+            "timestamp": "2025-05-29T16:58:42.319Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 6,
+        "fields": {
+            "city": "монако",
+            "timestamp": "2025-05-29T17:06:21.800Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 7,
+        "fields": {
+            "city": "морск",
+            "timestamp": "2025-05-29T17:06:45.895Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 8,
+        "fields": {
+            "city": "морск",
+            "timestamp": "2025-05-29T17:06:46.922Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 9,
+        "fields": {
+            "city": "морск",
+            "timestamp": "2025-05-29T17:08:08.563Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 10,
+        "fields": {
+            "city": "сочи",
+            "timestamp": "2025-05-29T17:16:22.867Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 11,
+        "fields": {
+            "city": "москва",
+            "timestamp": "2025-05-29T17:20:08.641Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 12,
+        "fields": {
+            "city": "москва",
+            "timestamp": "2025-05-29T17:20:27.253Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 13,
+        "fields": {
+            "city": "москва",
+            "timestamp": "2025-05-29T17:20:40.678Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 14,
+        "fields": {
+            "city": "москва",
+            "timestamp": "2025-05-29T17:21:04.922Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 15,
+        "fields": {
+            "city": "москва",
+            "timestamp": "2025-05-29T17:21:21.081Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 16,
+        "fields": {
+            "city": "москва",
+            "timestamp": "2025-05-29T17:23:12.815Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 17,
+        "fields": {
+            "city": "москва",
+            "timestamp": "2025-05-29T17:24:37.923Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 18,
+        "fields": {
+            "city": "москва",
+            "timestamp": "2025-05-29T17:24:48.519Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 19,
+        "fields": {
+            "city": "berlin",
+            "timestamp": "2025-05-29T17:25:24.526Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 20,
+        "fields": {
+            "city": "dubai",
+            "timestamp": "2025-05-29T17:25:44.751Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 21,
+        "fields": {
+            "city": "раменское",
+            "timestamp": "2025-05-29T17:26:03.320Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 22,
+        "fields": {
+            "city": "раменское",
+            "timestamp": "2025-05-29T17:26:03.476Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 23,
+        "fields": {
+            "city": "питер",
+            "timestamp": "2025-05-29T17:26:24.333Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 24,
+        "fields": {
+            "city": "монако",
+            "timestamp": "2025-05-29T17:28:54.276Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 25,
+        "fields": {
+            "city": "монако",
+            "timestamp": "2025-05-29T17:29:11.644Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 26,
+        "fields": {
+            "city": "монако",
+            "timestamp": "2025-05-30T00:06:37.929Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 27,
+        "fields": {
+            "city": "сочи",
+            "timestamp": "2025-05-30T00:06:43.180Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 28,
+        "fields": {
+            "city": "сочи",
+            "timestamp": "2025-05-30T00:14:25.727Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 29,
+        "fields": {
+            "city": "москва",
+            "timestamp": "2025-05-30T00:14:42.520Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 30,
+        "fields": {
+            "city": "london",
+            "timestamp": "2025-05-30T00:15:01.317Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 31,
+        "fields": {
+            "city": "морск",
+            "timestamp": "2025-05-30T00:16:10.890Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 32,
+        "fields": {
+            "city": "bagio",
+            "timestamp": "2025-05-30T00:20:07.700Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 33,
+        "fields": {
+            "city": "New York",
+            "timestamp": "2025-05-30T00:20:28.685Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 34,
+        "fields": {
+            "city": "chicago",
+            "timestamp": "2025-05-30T14:10:20.423Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 35,
+        "fields": {
+            "city": "miami",
+            "timestamp": "2025-05-30T14:10:27.080Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    },
+    {
+        "model": "weather.citysearch",
+        "pk": 36,
+        "fields": {
+            "city": "boston",
+            "timestamp": "2025-05-30T14:11:05.851Z",
+            "session_key": "rd6miafentz2tkzbkuje835wvxzod5qu",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "ip_address": "127.0.0.1"
+        }
+    }
+]

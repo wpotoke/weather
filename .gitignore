@@ -1,0 +1,5 @@
+.vscode
+/fixtures
+.env
+venv
+/__pycache__

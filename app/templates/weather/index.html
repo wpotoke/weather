@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block css %}
+<link rel="stylesheet" href="{% static "css/weather/search.css" %}">
+<link rel="stylesheet" href="{% static "css/weather/base.css" %}">
+<script src={% static "js/autocomplete.js" %}></script>
+{% endblock %}
+
+{% block content %}
+<div class="weather-banner">
+    <img src="{% static "image/weather_background.jpg" %}" alt=".." autocomplete="off">
+    <form method="get" action="{% url "index" %}">
+        <input type="text" name="location" id="location-input" placeholder="Введите город" required>
+        <div id="autocomplete-results" class="autocomplete-box"></div>
+        <button type="submit">Поиск</button>
+    </form>
+</div>
+{% if not location and last_city %}
+    <div class="weather_last_city">
+        <p>Вы недавно смотрели погоду в <strong>{{ last_city }}</strong>.</p>
+        <a class="weather_link_button" href="?location={{ last_city }}">Посмотреть снова</a>
+    </div>
+{% endif %}
+{% if weather.error %}
+    <div class=error-message>
+        {{weather.error}}
+    </div>
+{% else %}
+    <div class="weather_info">
+        <h3>Погода в городе {{location|title}}</h3>
+        <ul>
+            <li>Дата и Время: {{weather.date_time}}</li>
+            <li>Терпература: {{weather.temperature}} °C</li>
+            <li>Ощущается как: {{weather.apparent_temperature}} °C</li>
+            <li>Скорость ветра: {{weather.wind_speed}} м/с</li>
+            <li>Давление: {{weather.pressure}} мм рт. ст.</li>
+            <li>Осадки: {{weather.precipitation}} мм</li>
+            <li>Влажность: {{weather.humidity}} %</li>
+            <li>{{weather.weathercode}}</li>
+        </ul>
+    </div>
+{% endif %}
+
+{% endblock %}
